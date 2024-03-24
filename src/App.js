@@ -1,6 +1,7 @@
 import './App.css';
-import { BrowserRouter, Routes } from 'react-router-dom';
 import TodoApp from './components/todo/TodoApp';
+
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
